@@ -6,10 +6,6 @@ A ideia não é "falar sobre IA em produto" — é mostrar o método e as ferram
 
 > Todos os dados e exemplos neste repositório são fictícios ou anonimizados. Nenhuma informação proprietária de qualquer empresa é usada aqui.
 
-## Por que este repositório existe
-
-A maior parte do conteúdo de "PM com IA" no mercado é teórico. Aqui eu documento processos que efetivamente uso — com os prompts, os templates e o raciocínio por trás de cada decisão — para que qualquer PM possa adaptar ao próprio contexto.
-
 ## Estrutura
 
 ```
